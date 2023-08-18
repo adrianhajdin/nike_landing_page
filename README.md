@@ -1,24 +1,18 @@
-# Nike 2.0
+# Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
+![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
 
-A Nike shoes website developed using React & TailwindCSS.
+## Tailwind CSS Starter Kit
+📚 https://resource.jsmastery.pro/tailwind-starter-kit
 
-### Things to Provide
+## Summary
+Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
 
-- [public](./public) (contains a Nike favicon)
-- [assets](./src/assets) (contains images & icons)
-- [constants](./src/constants) (contains dummy data)
-- [**index.css**](./src/index.css) (contains some styles. Do explain them)
-- [.eslintrc.cjs](./.eslintrc.cjs) (eslint rules to fix few warnings)
-- [tailwind.config.js](./tailwind.config.js) (contains some configs. Do explain them)
-
-### Setup
-
-Visit the tailwindcss site and follow the guide for setting up a vite project. 
-- Open TailwindCSS site
-- Go to the docs
-- Click on Installation
-- Select the "Framework Guides" tab
-- Click on Vite
-- And follow the next steps
-
-[Vite Framework Guide](https://tailwindcss.com/docs/guides/vite) link. 
+In this course, you'll:
+- Learn how to make the most out of Tailwind CSS
+- Fully understand how Tailwind works behind-the-scenes
+- Follow all of Tailwind's best practices
+- Put all of your newly gained Tailwind skills to the test by building a beautiful Nike landing page
+  
+## Want to land your dream programming job in 3 - 6 months?
+⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
+Become a Software Engineer. Guaranteed.
