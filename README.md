@@ -1,6 +1,9 @@
 # Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
 ![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
 
+### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+
 ## Tailwind CSS Starter Kit
 📚 https://resource.jsmastery.pro/tailwind-starter-kit
 
